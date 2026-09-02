@@ -4,6 +4,7 @@
 
 - Douglas Lopes Gomes
 - Jose Feliciano da Silva
+- Pedro Rocha
 
 ## Templates de perfil ☕️
 

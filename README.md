@@ -2,7 +2,8 @@
 
 ## Componentes do grupo:
 
-- Douglas Lopes Gomes 
+- Douglas Lopes Gomes
+- Jose Feliciano da Silva
 
 ## Templates de perfil ☕️
 
